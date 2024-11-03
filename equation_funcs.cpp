@@ -1,9 +1,5 @@
 #include <iostream>
-#include <fstream>
-#include <vector>
-#include <string>
-#include <bitset>
-#include <sstream>
+#include "funcs.hh"
 
 using namespace std;
 
