@@ -1,5 +1,7 @@
 #include <iostream>
-#include "funcs.hh"
+#include "equation_funcs.hh"
+#include "byte_funcs.hh"
+#include "keygen_func.hh"
 
 using namespace std;
 

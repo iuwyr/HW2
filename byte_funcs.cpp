@@ -3,7 +3,8 @@
 #include <vector>
 #include <string>
 #include <bitset>
-#include "funcs.hh"
+#include "byte_funcs.hh"
+#include "equation_funcs.hh"
 
 using namespace std;
 

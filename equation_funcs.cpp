@@ -1,5 +1,5 @@
 #include <iostream>
-#include "funcs.hh"
+#include "equation_funcs.hh"
 
 using namespace std;
 
@@ -14,7 +14,7 @@ int mod(int a, int b) {
 void shiftOdds(int &a, int &b, int &c, int d) {
     c = b;
     b = a;
-    a = mod(d, 13) - mod(d, 6);
+    a = mod(d, 113) - 57;
 }
 
 int disriminant(int a, int b, int c) {
